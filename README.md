@@ -1,4 +1,9 @@
-## Hi there 👋
+## h8ll0_w0rld|
+
+<!-- Export the GIF below in the look you picked, commit it, then: -->
+<p align="center">
+  <img src="assets/northern-lights.gif" alt="Northern Lights, animated ASCII art" width="720">
+</p>
 
 <!--
 **yar0sss/yar0sss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
